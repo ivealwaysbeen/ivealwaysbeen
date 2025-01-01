@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://powderinthebox.tistory.com](https://powderinthebox.tistory.com)
 
-- 📫 How to reach me **develop.jeong@gmail.com**
+- 📫 How to reach me **developer.frontdoor@gmail.com**
 
-- ⚡ Fun fact **No Fun**
+- ⚡ Working at a game company
 
 
 <p align="left">
